@@ -1,2 +1,4 @@
 This is a doc file for testing git's functionality.
 Thankyou
+
+--allow-unrelated-histories can be used if fatal: refusing to merge unrelated histories shows up 
